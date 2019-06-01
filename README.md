@@ -1,17 +1,17 @@
 # java8
 
-##Java Design Pattern Example  
+## Java Design Pattern Example  
 
-####Factory Pattern  
+#### Factory Pattern  
 > com.cisco.ds2.pattern.factory   
  
-####Dynamic proxy pattern  
+#### Dynamic proxy pattern  
 > com.cisco.ds2.pattern.proxy  
 
-####Single Pattern  
+#### Single Pattern  
 > com.cisco.ds2.pattern.Single
 
-##Java Sort Algorithm
+## Java Sort Algorithm
 > com.cisco.ds2.sort
 * bubble Sort  
 * Select Sort 
@@ -19,7 +19,7 @@
 * Merge Sort  
 * Quick Sort
 
-##Java Date Operation
+## Java Date Operation
 > com.cisco.ds2.utils
 * **MyDate.java**    
 date operation  
