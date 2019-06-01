@@ -10,10 +10,11 @@ public class BubbleSort {
      * @param data
      */
     public static void bubbleSortOrder(Integer[] data) {
+        Integer temp;
         for (int i = 0; i < data.length - 1; i++) {
             for (int j = 0; j < data.length - 1 - i; j++) {
                 if (data[j] > data[j + 1]) {
-                    int temp = data[j];
+                    temp = data[j];
                     data[j] = data[j + 1];
                     data[j + 1] = temp;
 
